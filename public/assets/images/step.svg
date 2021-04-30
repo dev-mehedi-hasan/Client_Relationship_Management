@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="86" viewBox="0 0 80 86">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Arrow_40_-_Shapes4FREE_1" data-name="Arrow 40 - Shapes4FREE 1" class="cls-1" d="M3.8,43.93H0.4v-27.3H3.8v27.3Zm2.4,0v-27.3H9.8v27.3H6.193Zm6.006,0v-27.3h3.61v27.3H12.2Zm15.622-27.3v27.3h-3.61v-27.3h3.61ZM18.2,43.93v-27.3h3.61v27.3H18.2Zm12.013,0v-27.3H44.542V-0.231L80.6,30.281,44.542,60.792V43.93H30.218Z"/>
+  <path id="Arrow_40_-_Shapes4FREE_1_copy" data-name="Arrow 40 - Shapes4FREE 1 copy" class="cls-1" d="M57.179,65.454h1.632V78.57H57.179V65.454Zm-1.151,0V78.57H54.294V65.454h1.735Zm-2.886,0V78.57H51.408V65.454h1.735ZM45.636,78.57V65.454h1.735V78.57H45.636Zm4.62-13.116V78.57H48.522V65.454h1.735Zm-5.772,0V78.57H37.6v8.1L20.278,72.012,37.6,57.352v8.1h6.882Z"/>
+</svg>
